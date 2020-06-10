@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Adept Led Centre
 
 You can use the [editor on GitHub](https://github.com/adept-led-centre/adept-led-centre.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
